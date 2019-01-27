@@ -1,0 +1,1 @@
+My calculator project for The Odin Project - integrating what I've learned while studying the basics of HTML, CSS, and JavaScript.
